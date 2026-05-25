@@ -41,6 +41,6 @@ You should have received a copy of the GNU General Public License along with FFm
 
 In accordance with the GNU General Public License, the complete corresponding source code for this software, including any modifications made to FFmpeg or other GPL components, is available at:
 
-👉 **[https://github.com/jingunag/MP3_to_Wav]**
+👉 **[https://git.ffmpeg.org/ffmpeg.git] [https://github.com/jingunag/MP3_to_Wav]**
 
 If you received this binary in a physical product, please contact us at [jgwen@foryouge.com.cn] for a written offer to provide the source code.
